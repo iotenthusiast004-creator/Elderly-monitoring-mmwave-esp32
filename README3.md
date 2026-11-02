@@ -9,7 +9,7 @@ No camera and nothing to wear. The two modules cover each other's weaknesses, wh
 
 > **Disclaimer:** This is a hobby / educational prototype. It is **not** a certified medical device, it does **not** output breathing or heart-rate values, and it must not be relied on for patient safety.
 
-📺 **Demo video:** [YOUR YOUTUBE LINK]
+📺 **Demo video:** https://youtu.be/4WXVmrdhdOA
 
 ![System overview](docs/overview.png) <!-- add a photo or the block diagram -->
 
